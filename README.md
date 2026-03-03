@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
+| [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -39,14 +41,17 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -68,4 +73,16 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
