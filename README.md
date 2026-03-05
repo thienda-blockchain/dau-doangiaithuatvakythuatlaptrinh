@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
@@ -91,4 +92,5 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
