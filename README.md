@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## Hash Table
