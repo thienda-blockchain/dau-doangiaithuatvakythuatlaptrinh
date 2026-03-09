@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0014-longest-common-prefix](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -60,6 +62,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -93,4 +96,8 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
