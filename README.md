@@ -38,6 +38,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
@@ -74,6 +75,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
