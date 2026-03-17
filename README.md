@@ -18,6 +18,7 @@
 | [0605-can-place-flowers](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0389-find-the-difference](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
