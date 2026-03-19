@@ -21,6 +21,7 @@
 | [1051-height-checker](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1089-duplicate-zeros) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | [0455-assign-cookies](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
