@@ -22,6 +22,7 @@
 | [1089-duplicate-zeros](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1089-duplicate-zeros) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0575-distribute-candies](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0709-to-lower-case](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0771-jewels-and-stones) |
 | [0824-goat-latin](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0824-goat-latin) |
+| [1436-destination-city](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
 ## Trie
 |  |
 | ------- |
