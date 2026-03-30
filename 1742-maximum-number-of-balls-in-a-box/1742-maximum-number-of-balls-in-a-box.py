@@ -11,10 +11,9 @@ class Solution(object):
         for i in range(lowLimit, highLimit + 1):
              # Tính tổng các chữ số của quả bóng i
             tong_chu_so = 0
-            tam = i
-            while tam > 0:
-                tong_chu_so += tam % 10  # Lấy chữ số cuối
-                tam //= 10              # Bỏ chữ số cuối
+            while i > 0:
+                tong_chu_so += i % 10  # Lấy chữ số cuối
+                i //= 10              # Bỏ chữ số cuối
             
             # Bỏ quả bóng vào hộp (tăng số lượng trong Dictionary)
             # Nếu hộp chưa có bóng, mặc định là 0 rồi cộng thêm 1
