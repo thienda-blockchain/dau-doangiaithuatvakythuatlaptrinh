@@ -45,6 +45,7 @@
 | [0819-most-common-word](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Sorting
@@ -106,6 +107,7 @@
 | [0383-ransom-note](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0819-most-common-word) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Quickselect
 |  |
@@ -152,6 +154,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1518-water-bottles](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1518-water-bottles) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Queue
 |  |
 | ------- |
