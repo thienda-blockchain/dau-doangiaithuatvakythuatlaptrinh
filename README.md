@@ -85,6 +85,7 @@
 | [1694-reformat-phone-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1694-reformat-phone-number) |
 | [1773-count-items-matching-a-rule](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1773-count-items-matching-a-rule) |
 | [1796-second-largest-digit-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1796-second-largest-digit-in-a-string) |
+| [1844-replace-all-digits-with-characters](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Trie
