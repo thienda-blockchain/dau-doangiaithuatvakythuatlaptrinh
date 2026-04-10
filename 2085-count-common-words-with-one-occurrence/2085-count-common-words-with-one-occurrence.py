@@ -5,22 +5,24 @@ class Solution(object):
         :type words2: List[str]
         :rtype: int
         """
-        dem1 = {}
-        dem2 = {}
+        def lay_tu_duy_nhat(danh_sach):
+            da_thay = set()
+            bi_lap = set()
+            for tu in danh_sach:
+                if tu in da_thay:
+                    bi_lap.add(tu)
+                da_thay.add(tu)
+            # Từ duy nhất = Tất cả các từ đã thấy - Các từ bị lặp
+            return da_thay - bi_lap
+
+        # Bước 1: Tìm tập hợp các từ xuất hiện đúng 1 lần trong mảng 1
+        set1 = lay_tu_duy_nhat(words1)
         
-        for word in words1:
-            dem1[word] = dem1.get(word, 0) + 1
-            
-        for word in words2:
-            dem2[word] = dem2.get(word, 0) + 1
-            
-        # Bước 2: Duyệt qua các từ trong dem1 theo đúng ý tưởng của bạn
-        ket_qua = 0
-        for tu, so_luong in dem1.items():
-            # Điều kiện 1: Từ đó xuất hiện ĐÚNG 1 LẦN ở mảng 1
-            if so_luong == 1:
-                # Điều kiện 2: Từ đó cũng xuất hiện ĐÚNG 1 LẦN ở mảng 2
-                if dem2.get(tu, 0) == 1:
-                    ket_qua += 1
-                    
-        return ket_qua
+        # Bước 2: Tìm tập hợp các từ xuất hiện đúng 1 lần trong mảng 2
+        set2 = lay_tu_duy_nhat(words2)
+        
+        # Bước 3: Kết quả là số lượng phần tử CHUNG của 2 tập hợp này
+        # Phép toán & (intersection) tìm các phần tử có ở cả 2 tập hợp
+        tu_chung_duy_nhat = set1 & set2
+        
+        return len(tu_chung_duy_nhat)
