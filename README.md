@@ -34,6 +34,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1844-replace-all-digits-with-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
