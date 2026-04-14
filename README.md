@@ -97,6 +97,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
 ## Trie
 |  |
