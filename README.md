@@ -44,6 +44,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2418-sort-the-people) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Binary Search
 |  |
 | ------- |
