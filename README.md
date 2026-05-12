@@ -65,6 +65,7 @@
 | [0383-ransom-note](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0454-4sum-ii) |
 | [0575-distribute-candies](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0575-distribute-candies) |
@@ -116,6 +117,7 @@
 | [0389-find-the-difference](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0819-most-common-word) |
@@ -288,5 +290,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
