@@ -23,6 +23,7 @@
 | [0495-teemo-attacking](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0605-can-place-flowers) |
+| [0658-find-k-closest-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0819-most-common-word) |
@@ -90,6 +91,7 @@
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
@@ -178,6 +181,7 @@
 | [0283-move-zeroes](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
 | [1089-duplicate-zeros](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
 |  |
@@ -259,6 +263,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
@@ -278,4 +283,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
