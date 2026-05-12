@@ -215,6 +215,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0412-fizz-buzz) |
 | [1103-distribute-candies-to-people](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -260,6 +261,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0374-guess-number-higher-or-lower) |
