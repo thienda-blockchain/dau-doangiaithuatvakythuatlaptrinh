@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
@@ -78,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
@@ -163,6 +165,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0283-move-zeroes) |
