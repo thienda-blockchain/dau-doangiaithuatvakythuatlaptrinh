@@ -101,6 +101,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0125-valid-palindrome) |
@@ -255,4 +256,8 @@
 |  |
 | ------- |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
