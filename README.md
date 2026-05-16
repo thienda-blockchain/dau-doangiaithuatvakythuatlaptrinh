@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
@@ -60,6 +61,7 @@
 | [0001-two-sum](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
@@ -142,6 +144,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -314,6 +317,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0257-binary-tree-paths) |
@@ -330,6 +334,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0257-binary-tree-paths) |
