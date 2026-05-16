@@ -280,6 +280,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -306,4 +307,16 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0203-remove-linked-list-elements) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
