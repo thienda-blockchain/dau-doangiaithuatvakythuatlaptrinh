@@ -287,6 +287,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0155-min-stack) |
+| [0897-increasing-order-search-tree](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -322,6 +323,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0257-binary-tree-paths) |
 | [0872-leaf-similar-trees](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0257-binary-tree-paths) |
 | [0872-leaf-similar-trees](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -341,6 +344,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0257-binary-tree-paths) |
 | [0872-leaf-similar-trees](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -353,4 +357,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0098-validate-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
