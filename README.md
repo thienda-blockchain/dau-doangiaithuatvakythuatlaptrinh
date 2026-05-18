@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -65,6 +66,7 @@
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0387-first-unique-character-in-a-string) |
@@ -94,6 +96,7 @@
 | [0016-3sum-closest](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0455-assign-cookies) |
@@ -227,6 +230,7 @@
 | [0013-roman-to-integer](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0412-fizz-buzz) |
 | [1103-distribute-candies-to-people](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -253,6 +257,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation
@@ -275,6 +280,7 @@
 | [0069-sqrtx](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0704-binary-search) |
