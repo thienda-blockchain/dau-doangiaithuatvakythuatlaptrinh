@@ -31,6 +31,7 @@
 | [0819-most-common-word](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0912-sort-an-array) |
+| [0997-find-the-town-judge](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -74,6 +75,7 @@
 | [0575-distribute-candies](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0819-most-common-word) |
+| [0997-find-the-town-judge](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0997-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1436-destination-city) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -366,4 +368,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
