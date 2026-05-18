@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0136-single-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0200-number-of-islands) |
@@ -261,6 +262,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/thienda-blockchain/dau-doangiaithuatvakythuatlaptrinh/tree/master/2206-divide-array-into-equal-pairs) |
